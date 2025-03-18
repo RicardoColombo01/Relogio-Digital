@@ -4,7 +4,7 @@ Projeto Rélogio
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/edcarlosrocha/future-web.git
+   git clone
    ```
 
 2. Configure suas informações de usuário localmente:
