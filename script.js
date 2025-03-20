@@ -24,7 +24,6 @@ document.getElementById("Mudar-Modo").addEventListener("click", function() {
     document.body.classList.toggle("modo-claro");
 });
 
-
 document.addEventListener("DOMContentLoaded", function () {
     function aplicarTemaAutomatico() {
         const horaAtual = new Date().getSeconds(); // Obtém a hora atual
